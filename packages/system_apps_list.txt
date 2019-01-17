@@ -1,0 +1,92 @@
+1Password 7.app
+Affinity Designer.app
+Affinity Photo.app
+Amphetamine.app
+App Store.app
+AppCleaner.app
+Automator.app
+Battery Monitor.app
+Blinky.app
+Books.app
+Calculator.app
+Calendar.app
+Chess.app
+Claro 4GMax.app
+Color Picker.app
+Contacts.app
+Contraste.app
+CraftManager.app
+Dashboard.app
+Dictionary.app
+FaceTime.app
+FileZilla.app
+Firefox.app
+Font Book.app
+GIF Brewery 3.app
+GarageBand.app
+Google Chrome.app
+Google Earth Pro.app
+HandBrake.app
+Hewlett-Packard
+Home.app
+IINA.app
+IconJar.app
+Image Capture.app
+ImageAlpha.app
+ImageOptim.app
+Keynote.app
+Launchpad.app
+Local by Flywheel.app
+MAMP
+MacFamilyTree 8.app
+Mactracker.app
+Mail.app
+Maps.app
+Messages.app
+Mission Control.app
+News.app
+Notes.app
+Numbers.app
+OpenEmu.app
+PCClient.app
+PDFInfo.app
+Pages.app
+Photo Booth.app
+Photos.app
+Pocket.app
+Poedit.app
+Preview.app
+QuickTime Player.app
+Reeder.app
+Reminders.app
+Safari.app
+SelfControl.app
+Sequel Pro.app
+Siri.app
+Sketch.app
+SketchBook.app
+SkyFonts
+Spotify.app
+Steam.app
+Stickies.app
+Stocks.app
+Sublime Text.app
+System Preferences.app
+TextEdit.app
+The Unarchiver.app
+Things3.app
+Time Machine.app
+Transmission.app
+TunnelBear.app
+Tweetbot.app
+Uninstall Claro 4GMax.app
+Utilities
+VirtualBox.app
+VoiceMemos.app
+Wacom Tablet.localized
+XMind.app
+Xcode.app
+iA Writer.app
+iMovie.app
+iTerm.app
+iTunes.app

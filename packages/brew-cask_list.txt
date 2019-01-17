@@ -1,0 +1,4 @@
+1password-cli
+font-hack-nerd-font
+font-microsoft-office
+ngrok
